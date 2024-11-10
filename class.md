@@ -1,2 +1,0 @@
-cc
-Version control
